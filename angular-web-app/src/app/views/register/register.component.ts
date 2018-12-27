@@ -21,7 +21,6 @@ export class RegisterComponent {
   constructor(private http:HttpClient, private router :Router,private toastr: ToastrService) { }
 
   async RegisterButtonClick(){
-    debugger;
     const requestData:any={
       firstName:this.firstName,
       lastName:this.lastName,
