@@ -1,0 +1,17 @@
+D:\Personal\WebApp\WebApp.Core.Model\bin\Debug\netcoreapp2.1\WebApp.Core.Model.deps.json
+D:\Personal\WebApp\WebApp.Core.Model\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+D:\Personal\WebApp\WebApp.Core.Model\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+D:\Personal\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.csproj.CoreCompileInputs.cache
+D:\Personal\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.AssemblyInfoInputs.cache
+D:\Personal\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.AssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+D:\Personal\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+D:\Personal\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.csprojAssemblyReference.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\bin\Debug\netcoreapp2.1\WebApp.Core.Model.deps.json
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.AssemblyInfoInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.AssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Model\obj\Debug\netcoreapp2.1\WebApp.Core.Model.pdb

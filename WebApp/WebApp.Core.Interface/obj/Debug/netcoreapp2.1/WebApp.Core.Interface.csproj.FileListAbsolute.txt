@@ -1,0 +1,62 @@
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csprojAssemblyReference.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CoreCompileInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfoInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.deps.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CopyComplete
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csprojAssemblyReference.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CoreCompileInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfoInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.deps.json
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CopyComplete
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.deps.json
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csprojAssemblyReference.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfoInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CopyComplete
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.deps.json
+D:\Personal\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+D:\Personal\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csprojAssemblyReference.cache
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CoreCompileInputs.cache
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfoInputs.cache
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CopyComplete
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.deps.json
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csprojAssemblyReference.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfoInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.AssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.csproj.CopyComplete
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Interface\obj\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb

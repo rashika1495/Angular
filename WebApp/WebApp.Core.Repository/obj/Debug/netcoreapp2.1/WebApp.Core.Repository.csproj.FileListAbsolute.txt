@@ -1,0 +1,96 @@
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csprojAssemblyReference.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CoreCompileInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfoInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.deps.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CopyComplete
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csprojAssemblyReference.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CoreCompileInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfoInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.deps.json
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CopyComplete
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.deps.json
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csprojAssemblyReference.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfoInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CopyComplete
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.deps.json
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.dll
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.pdb
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+D:\Personal\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csprojAssemblyReference.cache
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CoreCompileInputs.cache
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfoInputs.cache
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CopyComplete
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+D:\Personal\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.deps.json
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csprojAssemblyReference.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfoInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.AssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.csproj.CopyComplete
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Repository\obj\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebApp.Core.Interface/1.0.0": {
+        "dependencies": {
+          "WebApp.Core.Model": "1.0.0"
+        },
+        "runtime": {
+          "WebApp.Core.Interface.dll": {}
+        }
+      },
+      "WebApp.Core.Model/1.0.0": {
+        "runtime": {
+          "WebApp.Core.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApp.Core.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApp.Core.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

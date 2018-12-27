@@ -1,0 +1,25 @@
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.deps.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.csproj.CoreCompileInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.AssemblyInfoInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.AssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.deps.json
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.csproj.CoreCompileInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.AssemblyInfoInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.AssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.deps.json
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.csprojAssemblyReference.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.AssemblyInfoInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.AssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.DTO\obj\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb

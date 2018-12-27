@@ -1,0 +1,221 @@
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.deps.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.dev.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csprojAssemblyReference.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CoreCompileInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfoInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.input.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.output.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorCoreGenerate.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CopyComplete
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csprojAssemblyReference.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CoreCompileInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfoInputs.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.deps.json
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.json
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.dev.json
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.input.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.output.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorCoreGenerate.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cache
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cs
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+H:\New folder\BaseWebAppWithDB\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CopyComplete
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.deps.json
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.json
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.dev.json
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DTO.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csprojAssemblyReference.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfoInputs.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.input.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.output.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorCoreGenerate.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cs
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CopyComplete
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+C:\Users\Santosh\Desktop\testtt\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csprojAssemblyReference.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CoreCompileInputs.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfoInputs.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.input.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.output.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorCoreGenerate.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cache
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cs
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.deps.json
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.json
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.dev.json
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+D:\Personal\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CopyComplete
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csprojAssemblyReference.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorAssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfoInputs.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.AssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.deps.json
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.json
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.runtimeconfig.dev.json
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Model.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Interface.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Repository.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.DAL.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Model.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\bin\Debug\netcoreapp2.1\WebApp.Core.Utility.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.input.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.TagHelpers.output.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorCoreGenerate.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.RazorTargetAssemblyInfo.cs
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.Views.pdb
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.csproj.CopyComplete
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.dll
+C:\Users\Rashika Sharma\Documents\GitHub\ProjectOfConcepts\WebApp\WebApp.Core.Web.Api\obj\Debug\netcoreapp2.1\WebApp.Core.Web.Api.pdb

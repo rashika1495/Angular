@@ -1,0 +1,8 @@
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\obj\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.csproj.CoreCompileInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\obj\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.AssemblyInfoInputs.cache
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\obj\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.AssemblyInfo.cs
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.deps.json
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\bin\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.pdb
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\obj\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.dll
+D:\Personal\WebAppProject\WebApp\WebApp.Core.ViewDTO\obj\Debug\netcoreapp2.1\WebApp.Core.ViewDTO.pdb
