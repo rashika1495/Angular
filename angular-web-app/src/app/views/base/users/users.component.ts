@@ -39,13 +39,12 @@ async loadUsersList(){
    // IsActive:null
   }
   await this.http.post<Users>('https://localhost:44358/api/User/Details',requestData).subscribe(res=>{
-  debugger;  
+  
   this.userData=res.data;
     console.log(this.userData);
   });
 }
 async AddButtonClick(){
-  debugger;
   const requestData:any={
     firstName:this.firstName,
     lastName:this.lastName,
@@ -54,7 +53,7 @@ async AddButtonClick(){
     password:this.password
   }
 
-  await this.http.post<Response>('https://localhost:44358/api/User/Add',requestData).subscribe(res=>{
+/*   await this.http.post<Response>('https://localhost:44358/api/User/Add',requestData).subscribe(res=>{
     this.responseData=res;
     if(this.responseData.message=="Success"){
       this.toastr.success('Your account has been created successfully. You will now be redirected to login page.');
@@ -63,7 +62,7 @@ async AddButtonClick(){
     else{
       this.toastr.error(this.responseData.message);
     }
-  });
+  }); */
 }
 Reload(){
   this.router.navigateByUrl('/base/users');
@@ -74,9 +73,6 @@ public onPageChange(event) {
   this.activePage = event.activePage;
   this.loadUsersList();
 }
-
-
-
 }
 
 interface Response{
