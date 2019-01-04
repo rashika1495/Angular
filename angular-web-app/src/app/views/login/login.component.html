@@ -23,11 +23,19 @@
                   </div>
                   <div class="row">
                     <div class="col-6">
-                      <button type="button" (click)='this.loginbuttonClick()' class="btn btn-primary px-4">Login</button>
+                      <button type="button" (click)='this.googleLogin()' class="btn btn-primary px-4">Login</button>
                       {{errorMessage}}
                     </div>
                     <div class="col-6 text-right">
                       <button type="button" class="btn btn-link px-0">Forgot password?</button>
+                    </div></div> 
+                    
+                    
+                    <div class="row">
+                    <div class="col-12">
+                      <img src="/assets/img/facebook.png">
+                     <img src="/assets/img/google-plus.png">
+                      <img src="/assets/img/twitter.png">
                     </div>
                   </div>
                 </form>
@@ -39,7 +47,9 @@
                   <h1>Sign up</h1>
                  <!--  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
                   <button type="button" class="btn btn-primary active mt-3" (click)="this.Register()">Register Now!</button>
+               
                 </div>
+                 
               </div>
             </div>
           </div>
